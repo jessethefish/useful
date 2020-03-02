@@ -1,5 +1,5 @@
 # useful
-Collection of useful commands and tools. 
+Collection of useful Linux commands and tools. 
 
 
 # awk_examples
